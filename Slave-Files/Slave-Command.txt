@@ -1,0 +1,1 @@
+java -jar agent.jar -jnlpUrl http://13.232.18.190:8080/computer/slave1/slave-agent.jnlp -secret d6ee680f9b58aa4a920e5245ba142df49e08823ced01b49d307b24d93f858307 -workDir "/root/Jenkins-Docker-Project1"
